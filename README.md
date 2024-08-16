@@ -46,7 +46,6 @@
 <p align="center">An enthusiastic fresher with high motivation. Eager to learn new technologies and methodologies. Seeking a position to utilize my skills and ability to start up my career that offers professional growth while being resourceful, innovative and flexible & by working in a challenging position where i will have opportunities to utilize my experience in a project.</p>
 
 ###
-
 <img src="https://raw.githubusercontent.com/Shubhi102004/Shubhi102004/output/snake.svg" alt="Snake animation" />
 
 ###
