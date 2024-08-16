@@ -47,7 +47,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Shubhi102004/shubhi102004/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Shubhi102004/Shubhi102004/output/snake.svg" alt="Snake animation" />
 
 ###
 
